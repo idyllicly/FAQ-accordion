@@ -36,6 +36,10 @@ body{
 header{
     display:block
 }
+.dropdown:hover{
+  cursor: pointer;
+}
+
 h1{
     color:hsl(292, 42%, 14%);
     font-weight: 700;
