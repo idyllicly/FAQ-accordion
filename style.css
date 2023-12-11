@@ -30,7 +30,7 @@ body{
     flex-direction: column;
     position:relative;
     flex-wrap: wrap;
-    box-shadow:5px 5px 20px 5px  ;
+    box-shadow: 5px 5px 30px 5px rgba(0,0,0,0.2);
 }
 
 header{
